@@ -1,0 +1,345 @@
+*
+
+.body
+{
+    
+    width: 100%;
+    padding: 30px 100px;
+    background-color: #f6f6f6;
+    box-sizing: border-box;
+}
+.body .container
+{
+    padding: 0px 0px;
+    display: flex;
+    width: 90%;
+    margin-left: 70px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.body .container .left-box
+{
+    height: 300px;
+    
+    width: 800px;
+    margin-right: 0px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+.body .container .left-box .circle{
+    height: 50px;
+    width: 50px;
+    background-color: #fff;
+    border-radius: 50%;
+    border:1px solid #1b0e30; 
+    position: absolute;
+    align-self: flex-start;
+}
+.body .container .left-box .circle p{
+    font-size: x-large;
+    text-align: center;
+    margin-top: 15px;
+    
+}
+
+.body .container .right-box
+{
+    
+    width: 100%;
+    background-color: #ffffff;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+.body .info
+{
+    margin-left: 100px;
+    margin-top: 40px;
+    color: #1b0e30;
+    font-size: 40px;
+    font-weight: 0;
+}
+
+.body .container .left-box .img_box
+{
+    align-self: center;
+    
+  
+  padding: 0px 30px;
+  width: 0px;
+  
+}
+
+.body .container .left-box .img_box zzz
+{
+    margin-right: 100px;
+  
+}
+
+
+
+.body .container .left-box .info 
+{
+    font-family: sans-serif;
+    font-size: 15px;
+    align-items: center;
+    margin-top: -1px;
+  
+}
+.body .container .left-box h2
+{
+    
+    
+    height: 30px;
+    width: 320px;
+    padding: 0px 0px;
+    margin-left: 266px;
+    margin-top: -200px;
+    font-size: 15px;
+    
+    font-weight: bold;
+    
+}
+.body .container .left-box #abc
+{
+    
+    color: #7a7878;
+    height: 50px;
+    width: 480px;
+    padding: 0px 0px;
+    margin-left: 266px;
+    margin-top: 0px;
+    font-size: 15px;
+    display: inline-block;
+    
+   
+}
+.body .container .left-box #one
+{
+    
+    
+    height: 50px;
+    width: 480px;
+    padding: 0px 0px;
+    margin-left: 266px;
+    margin-top: 0px;
+    font-size: 15px;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   
+}
+.body .container .left-box #two
+{
+    
+    color: #7a7a7a;
+    height: 50px;
+    width: 480px;
+    padding: 0px 0px;
+    margin-left: 280px;
+    margin-top: 0px;
+    font-size: 15px;
+    display: inline-block;
+    
+   
+}
+.body .container .left-box #three
+{
+    
+    
+    height: 50px;
+    width: 480px;
+    padding: 0px 0px;
+    margin-left: 266px;
+    margin-top: 20px;
+    font-size: 15px;
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #1b24d2;
+}
+.body .container .left-box #three:hover
+{
+    color: #1b0e30;
+    cursor: pointer;
+}
+.body .container .right-box .box
+{
+    margin-left: 30px;
+    margin-top: 40px;
+    height: 140px;
+    width: 140px;
+    background-color: #bae0f7;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.body .container .right-box .view
+{
+    margin-left: 30px;
+    margin-top: 15px;
+    background-color:  #2676e6;
+    height: 40px;
+    width: 140px;
+    color:#fff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: none;
+}
+.body .container .right-box .view:hover
+{
+   
+    background-color:  #0b2242;
+    
+    color:#fff;
+}
+.body .container .right-box .box #five
+{
+   font-size: 40px;
+   margin-left: 20px;
+   padding: 10px 0px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   color: #2676e6;
+
+}
+.body .container .right-box .box #four
+{
+   align-items: center;
+   margin-left: 10px;
+   padding: 10px 0px;
+   color: #2676e6;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.body .container 
+{
+    padding: 20px 20px;
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.body .container  .box
+{
+    padding: 10px 20px;
+    color: #fff;
+}
+.body .container .box h3
+{
+    text-transform: uppercase;
+    color: #232323;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.body .container .box h4
+{
+    
+    color: #b3b3b3;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.body .container .box .button
+{
+    margin-left: 30px;
+    margin-top: 15px;
+    background-color:  #2676e6;
+    height: 40px;
+    width: 140px;
+    color:#fff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: none;
+}
+.body .container .box .button:hover
+{
+   
+    background-color:  #0b2242;
+    
+    color:#fff;
+}
+.body .container  .box ul
+{
+    margin-top: 10px;
+}
+.body .container .box ul li
+{
+    list-style: none;
+    margin-top: 5px;
+    color: #8a8a8a;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.body .container .box ul li:hover
+{
+    color: #cd1e76;
+}
+.body .val
+{
+    width: 1000px;
+    height: 100px;
+    color: #656464;
+    font-size: 45px;
+    margin-left: 90px;
+    display: flex;
+    margin-right: 100px;
+}
+.body .val .search_box
+{
+    display: flex;
+    
+}
+.body .val .search_box input
+{
+    padding: 15px 20px;
+    outline: none;
+    background: none;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    width: 250px;
+    border: none;
+    background: #fff;
+    height: 40px;
+    margin-top: 15px ;
+    
+}
+.body .val .search_box button
+{
+    margin-left: 30px;
+    margin-top: 15px;
+    background-color:  #2676e6;
+    height: 40px;
+    width: 140px;
+    color:#fff;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border: none;
+}
+.body .val .search_box button:hover
+{
+   
+    background-color:  #0b2242;
+    
+    color:#fff;
+}
